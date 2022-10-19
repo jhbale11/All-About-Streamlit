@@ -32,7 +32,6 @@ st.write(x, 'squared is', x * x)
 ## Streamlit Study App
 
 [jhbale11's Streamlit Study App](https://jhbale11-all-about-streamlit-streamlit-test-h7bpp9.streamlitapp.com/)
-[https://jhbale11-all-about-streamlit-streamlit-test-h7bpp9.streamlitapp.com/](https://jhbale11-all-about-streamlit-streamlit-test-h7bpp9.streamlitapp.com/)
 
 #### Side Bar List
 - Welcome : Introduction & References
