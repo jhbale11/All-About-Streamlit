@@ -1,6 +1,9 @@
-# All-About-Streamlit
+# All-About-Streamlit [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/streamlit/demo-face-gan)
 
-**The fastest way to build and share data apps.**
+**The fastest way to build and share data apps!**
+**Streamlit은 데이터 사이언티스드가 데이터로 app을 만드는 가장 쉬운 방법입니다!**
+
+본 repo는 강력한 시각화 툴인 Streamlit에 대한 스터디 정리입니다.
 
 Streamlit lets you turn data scripts into shareable web apps in minutes, not weeks. It’s all Python, open-source, and free! And once you’ve created an app you can use our [Community Cloud platform](https://streamlit.io/cloud) to deploy, manage, and share your app!
 
@@ -33,6 +36,8 @@ st.write(x, 'squared is', x * x)
 
 [jhbale11's Streamlit Study App](https://jhbale11-all-about-streamlit-streamlit-test-h7bpp9.streamlitapp.com/)
 
+![app-gif](https://github.com/jhbale11/All-About-Streamlit/blob/main/img/streamlit-streamlit_test-2022-10-19-11-10-33.gif)
+
 #### Side Bar List
 - Welcome : Introduction & References
 - Text : Text elements & st.write method
@@ -41,25 +46,11 @@ st.write(x, 'squared is', x * x)
 - Widget : Display Interactive Widgets
 - Sample : Toy project for uber pickup in NYC
 
+I made a sample app, make a simple cheat-sheet for all elements in Streamlit
+Use app to easily understand all features of powerfull streamlit!
 
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
 
-
-Streamlit's simple and focused API lets you build incredibly rich and powerful tools.  [This demo project](https://github.com/streamlit/demo-self-driving) lets you browse the entire [Udacity self-driving-car dataset](https://github.com/udacity/self-driving-car) and run inference in real-time using the [YOLO object detection net](https://pjreddie.com/darknet/yolo).
-
-![Final App Animation](https://raw.githubusercontent.com/streamlit/docs/main/public/images/complex_app_example.gif)
-
-The complete demo is implemented in less than 300 lines of Python. In fact, the app contains [only 23 Streamlit calls](https://github.com/streamlit/demo-self-driving/blob/master/streamlit_app.py) which illustrates all the major building blocks of Streamlit. You can try it right now at [share.streamlit.io/streamlit/demo-self-driving](https://share.streamlit.io/streamlit/demo-self-driving).
-
-## The Streamlit GitHub badge
-
-Streamlit's GitHub badge helps others find and play with your Streamlit app.
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/streamlit/demo-face-gan)
-
-Once you deploy your app, you can embed this badge right into your GitHub readme.md as follows:
-
-```markdown
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/yourGitHubName/yourRepo/yourApp/)
-```
 
 
