@@ -29,7 +29,21 @@ st.write(x, 'squared is', x * x)
 
 <img src="https://raw.githubusercontent.com/streamlit/docs/main/public/images/simple_example.png"/>
 
-## Streamlit Test App
+## Streamlit Study App
+
+[jhbale11's Streamlit Study App](https://jhbale11-all-about-streamlit-streamlit-test-h7bpp9.streamlitapp.com/)
+[https://jhbale11-all-about-streamlit-streamlit-test-h7bpp9.streamlitapp.com/](https://jhbale11-all-about-streamlit-streamlit-test-h7bpp9.streamlitapp.com/)
+
+#### Side Bar List
+- Welcome : Introduction & References
+- Text : Text elements & st.write method
+- Data : Data Display & Elements Display
+- Chart : Chart Elements
+- Widget : Display Interactive Widgets
+- Sample : Toy project for uber pickup in NYC
+
+
+
 
 Streamlit's simple and focused API lets you build incredibly rich and powerful tools.  [This demo project](https://github.com/streamlit/demo-self-driving) lets you browse the entire [Udacity self-driving-car dataset](https://github.com/udacity/self-driving-car) and run inference in real-time using the [YOLO object detection net](https://pjreddie.com/darknet/yolo).
 
