@@ -1,7 +1,7 @@
 # All-About-Streamlit [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/streamlit/demo-face-gan)
 
-**The fastest way to build and share data apps!**
-**Streamlit은 데이터 사이언티스드가 데이터로 app을 만드는 가장 쉬운 방법입니다!**
+#### **The fastest way to build and share data apps!**
+#### **Streamlit은 데이터 사이언티스드가 데이터로 app을 만드는 가장 쉬운 방법입니다!**
 
 본 repo는 강력한 시각화 툴인 Streamlit에 대한 스터디 정리입니다.
 
